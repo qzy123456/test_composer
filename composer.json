@@ -1,0 +1,17 @@
+{
+    "name": "artist/test_composer",
+    "authors": [
+        {
+            "name": "qichaoyang",
+            "email": "chaoyang.qi@mybogames.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
